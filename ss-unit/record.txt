@@ -1,0 +1,7 @@
+# config
+config/ss_config.go:730: undefined: config in config.ConferenceList
+config/ss_config.go:733: undefined: config in config.UserDB
+config/ss_config.go:735: undefined: config in config.SessionList
+config/ss_config.go:738: undefined: config in config.ConferenceDB
+config/ss_config.go:739: undefined: config in config.ConferenceList
+config/ss_config.go:744: undefined: config in config.SessionList

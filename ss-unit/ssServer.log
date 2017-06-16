@@ -1,0 +1,16 @@
+[debug]: 2016/07/12 10:39:06 test 111 4
+[error]: 2016/07/12 10:39:06 haaaaaaaaaa 5
+[debug]: 2016/07/12 10:51:42 test 111 4
+[error]: 2016/07/12 10:51:42 haaaaaaaaaa 5
+[debug]: 2016/07/12 10:54:50 test 111 4
+[error]: 2016/07/12 10:54:50 haaaaaaaaaa 5
+[debug]: 2016/07/12 10:58:06 test 111 4
+[error]: 2016/07/12 10:58:06 haaaaaaaaaa 5
+[debug]: 2016/07/12 11:19:39 test 111 4
+[error]: 2016/07/12 11:19:39 haaaaaaaaaa 5
+[debug]: 2016/07/12 11:20:12 /home/zhouchangbo/SS/src/sslog/sslog.go:18: test 111 4
+[error]: 2016/07/12 11:20:12 /home/zhouchangbo/SS/src/sslog/sslog.go:24: haaaaaaaaaa 5
+[debug]: 2016/07/12 11:21:38 sslog.go:18: test 111 4
+[error]: 2016/07/12 11:21:38 sslog.go:24: haaaaaaaaaa 5
+[debug]: 2016/07/12 11:26:01 sslog.go:20: init test 111 4
+[error]: 2016/07/12 11:26:01 sslog.go:25: haaaaaaaaaa 5

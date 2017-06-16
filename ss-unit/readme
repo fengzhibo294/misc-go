@@ -1,0 +1,12 @@
+	                       ss-go
+1)about    program structure:
+package config                       #define  util  variable and comm funct
+package sslog                        #potting   std library " log"
+package socket                     #most import architecture code
+package  db2mysql              #potting mysql's api 
+package module                    #ss--server module implementation 
+ss_server.go                            #the entrance of ss-go
+
+2)build and run
+go build ss_server.go          #will create a bin file named ss_server 
+go run ss_server.go              #run ss-go program as foreground

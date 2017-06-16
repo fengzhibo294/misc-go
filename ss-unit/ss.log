@@ -1,0 +1,3 @@
+[error]: 2016/07/25 17:07:11 sslog.go:30: rows.Scan sql: Scan error on column index 2: converting driver.Value type []uint8 ("2013-09-19 13:00:00") to a int: invalid syntax
+[error]: 2016/07/25 17:07:11 sslog.go:30: LoadGlobaldata: sql: Scan error on column index 2: converting driver.Value type []uint8 ("2013-09-19 13:00:00") to a int: invalid syntax
+[error]: 2016/07/25 17:07:11 sslog.go:30: ListenTCP: listen tcp :80: bind: address already in use
